@@ -11,7 +11,7 @@
     "docker:push": "docker push tschaul/iridanus-docs"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.40",
+    "@docusaurus/core": "^2.4.3",
     "@docusaurus/preset-classic": "^2.0.0-alpha.40",
     "classnames": "^2.2.6",
     "react": "^16.8.4",
